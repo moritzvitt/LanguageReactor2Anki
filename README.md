@@ -7,9 +7,7 @@ Utilises gpt4 to create beautiful flashcards from csv export from [Language reac
 - Outputs the generated Anki deck as an .apkg file for import into the Anki software.
 - Provides options for customization through a configuration JSON file.
 
-
-
-
+https://github.com/moritzvitt/LanguageReactor2Anki/assets/102719023/993b46f7-72d3-4bbb-9af0-008c75c89842
 
 
 A script, that pulls all the look-ups from kindle's 'vocabulary builder' and transforms them into Anki Cards! 
